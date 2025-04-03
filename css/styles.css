@@ -37,7 +37,8 @@ ol {
 }
 
 .menu-item:hover,
-.menu-item:focus {
+.menu-item:focus,
+.menu-item:active {
   color: #404bbf;
 }
 
@@ -49,7 +50,8 @@ ol {
 }
 
 .contacts:hover,
-.contacts:focus {
+.contacts:focus,
+.contacts:active {
   color: #404bbf;
 }
 
