@@ -49,9 +49,15 @@ ol {
   font-style: normal;
 }
 
-.contacts:hover,
-.contacts:focus,
-.contacts:active {
+.contact:hover {
+  color: #404bbf;
+}
+
+.contact:focus {
+  color: #404bbf;
+}
+
+.contact:active {
   color: #404bbf;
 }
 
