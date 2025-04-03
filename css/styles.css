@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roboto', 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
@@ -74,15 +74,13 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.04em;
   background-color: #4d5ae5;
+  cursor: pointer;
+  font-family: 'Roboto', sans-serif;
 }
 
 .banner-button:hover,
 .banner-button:focus {
   background-color: #404bbf;
-}
-
-.banner-button:hover {
-  cursor: pointer;
 }
 
 .about-company-title {
